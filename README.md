@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhijith Sai
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning NLP, GAN
 - 💞️ I’m looking to extend my career on research in Data Science and contribute to the DS Community.
 - 📫 How to reach me abhiithsaithirunahari51@gmail.com
 

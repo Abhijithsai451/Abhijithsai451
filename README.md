@@ -99,6 +99,12 @@ Dresden/Freiberg, DE 🇩🇪 | abhijithsai.wgd80@gmail.com | [LinkedIn](https:/
   <img src="https://github-readme-stats.vercel.app/api?username=Abhijithsai451&theme=radical&hide_border=true&show_icons=true&hide=stars,issues,contribs" alt="Clean Stats" width="48%" />
 </p>
 
+## 🏗️ Contribution Architecture
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=abhijithsai-wgd80&theme=radical" alt="Abhijith's 3D Contributions" />
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">

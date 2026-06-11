@@ -1,51 +1,50 @@
 # Hi there, I'm Abhijith Sai Thirunahari 👋
 **AI Engineer | Data Scientist | High-Performance Computing Specialist**
 
-I am an AI Engineer with over 5+ years of enterprise experience delivering high-performance machine learning models and cloud-native architectures. Currently pursuing an M.Sc. in Mathematics at TU Bergakademie Freiberg, my work bridges the gap between abstract mathematical research and low-latency, production-ready solutions. I specialize in the full lifecycle of AI development, focusing on the specialized synergy of mathematical modeling, scalable HPC techniques, and forward-looking GenAI[cite: 1, 4].
+AI Engineer with over 5+ years of enterprise experience building high-performance ML models and cloud-native architectures. Currently completing an M.Sc. in Mathematics at TU Bergakademie Freiberg to bridge abstract mathematical research with low-latency, scalable parallel compute[cite: 1, 4]. 
 
-Dresden/Freiberg, DE 🇩🇪 | abhijithsai.wgd80@gmail.com[cite: 1] | [LinkedIn](https://www.linkedin.com/in/abhijith-sai-thirunahari/)
+Dresden/Freiberg, DE 🇩🇪 | abhijithsai.wgd80@gmail.com[cite: 1] | [LinkedIn](https://linkedin.com)
 
 ---
 
-## 🛠️ Complete Technical Expertise
+## 🛠️ Complete Technical Grid
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Advanced GenAI & Deep Learning</h3>
+      <h3>🤖 GenAI & Deep Learning</h3>
       <ul>
-        <li><b>Architectures:</b> Transformers (Vision, Music, Diffusion, Attention Mechanisms), State Space Models (SSMs), LSTMs, VAEs[cite: 1, 4]</li>
-        <li><b>LLM Efficiency:</b> Neural Architectural Search (NAS), Model Pruning, INT8 Quantization[cite: 1, 4]</li>
-        <li><b>Fine-Tuning & Training:</b> LoRA, RLHF/DPO, Semi-Supervised & Transfer Learning, Custom Loss Functions[cite: 1, 4]</li>
-        <li><b>Agentic AI & Orchestration:</b> LangGraph (Stateful), CrewAI, AutoGen, LlamaIndex, PydanticAI, Haystack, Dify, Advanced RAG[cite: 1]</li>
-        <li><b>Context Processing:</b> Massive Context Processing, Speculative Decoding[cite: 1]</li>
+        <li><b>Architectures:</b> Transformers (Vision/Music/Diffusion), State Space Models (SSMs), LSTMs, VAEs[cite: 1, 4]</li>
+        <li><b>LLM Efficiency:</b> NAS, Model Pruning, INT8 Quantization[cite: 1, 4]</li>
+        <li><b>Fine-Tuning:</b> LoRA, RLHF/DPO, Transfer Learning, Custom Loss Functions[cite: 1, 4]</li>
+        <li><b>Agentic Systems:</b> LangGraph, CrewAI, AutoGen, LlamaIndex, PydanticAI, Haystack, Dify, RAG</li>
+        <li><b>Context:</b> Massive Context Processing, Speculative Decoding[cite: 1]</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Math Modeling & HPC Solvers</h3>
+      <h3>⚡ Math Solvers & HPC</h3>
       <ul>
-        <li><b>Mathematical Foundations:</b> Linear Algebra, Stochastic Optimization, Statistical Inference</li>
+        <li><b>Foundations:</b> Linear Algebra, Stochastic Optimization, Statistical Inference[cite: 4]</li>
         <li><b>Computational Methods:</b> PDEs, Finite Element Methods (FEM), Wavelets[cite: 4]</li>
-        <li><b>Scientific ML (SciML):</b> Physics-Informed Neural Networks (PINNs), Deep Galerkin Methods (DGM)[cite: 1, 4]</li>
-        <li><b>HPC Frameworks:</b> CUDA C++, OpenMP, MPI, Distributed Computing[cite: 1, 3, 4]</li>
-        <li><b>Math Libraries:</b> NeuralPDE.jl, scikit-fem, Petsc4py[cite: 1, 4]</li>
+        <li><b>Scientific ML:</b> PINNs, Deep Galerkin Methods (DGM)[cite: 1, 4]</li>
+        <li><b>Math Tools:</b> NeuralPDE.jl, scikit-fem, Petsc4py[cite: 1, 4]</li>
+        <li><b>HPC Ecosystem:</b> CUDA C++, OpenMP, MPI, Distributed Compute, TIG Stack, ProfiT-HPC, Grafana[cite: 1, 2, 3]</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ Enterprise MLOps & Pipelines</h3>
+      <h3>☁️ Enterprise MLOps & Data</h3>
       <ul>
-        <li><b>AWS Ecosystem:</b> SageMaker, Glue, EMR, Athena, Lambda, CloudFormation (CFT)[cite: 1]</li>
-        <li><b>Orchestration & DevOps:</b> Docker, Kubernetes, Apache Airflow, Automated CI/CD[cite: 1]</li>
-        <li><b>Big Data:</b> S3 Dataframes, Oracle DB, Legacy Epsilon Migration, Salesforce Marketing Cloud[cite: 1]</li>
+        <li><b>AWS Cloud:</b> SageMaker, Glue, EMR, Athena, Lambda, CloudFormation (CFT)[cite: 1]</li>
+        <li><b>DevOps:</b> Docker, Kubernetes, Apache Airflow, Automated CI/CD[cite: 1]</li>
+        <li><b>Data Ecosystem:</b> S3 Dataframes, Oracle DB, Salesforce Marketing Cloud (SFMC)[cite: 1]</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 AIOps, Observability & Core</h3>
+      <h3>📊 Observability & Languages</h3>
       <ul>
-        <li><b>HPC Monitoring & Metrics:</b> TIG Stack, ProfiT-HPC, Grafana Overview, Monitoring Basics</li>
-        <li><b>Telemetry & Anomaly:</b> OpenTelemetry, Prometheus, Grafana Loki, Netdata Anomaly Detection[cite: 1]</li>
+        <li><b>AIOps:</b> OpenTelemetry, Prometheus, Grafana Loki, Netdata Anomaly Detection[cite: 1]</li>
         <li><b>Automation:</b> Keep, StackStorm, Ansible[cite: 1]</li>
         <li><b>Languages:</b> Python, Java, C++, SQL, R[cite: 1]</li>
         <li><b>Bilingual:</b> English (C2), German (B2), Hindi, Telugu[cite: 1]</li>
@@ -56,56 +55,46 @@ Dresden/Freiberg, DE 🇩🇪 | abhijithsai.wgd80@gmail.com[cite: 1] | [LinkedIn
 
 ---
 
-## 🚀 Granular Professional Experience
+## 🚀 Experience Highlights
 
 <details>
 <summary><b>Fannie Mae — AI & AWS Developer</b> <i>(June 2018 - Jan 2023)</i></summary>
 <br>
 
-* **Enterprise Portfolio Modeling:** Architected end-to-end credit risk pipelines by orchestrating Airflow ETLs and training LSTMs/Transformers to predict default and prepayment speeds on MBS portfolios[cite: 1].
-* **Deep Learning NLP:** Developed NLP solutions using BERT and LayoutLM for document processing, leveraging Transfer Learning and custom PyTorch loss functions to automate underwriting[cite: 1].
-* **Compute Optimization:** Profiled and optimized PyTorch training pipelines, reducing execution training time by **35%**[cite: 1].
-* **R&D Lifecycles:** Accelerated lifecycles through Bayesian tuning, Batch Normalization, and MLflow tracking to ensure performance through volatile mortgage market cycles[cite: 1].
-* **Production MLOps:** Productionized scalable infrastructure via Docker and INT8 Quantization, deploying low-latency FastAPI microservices on AWS SageMaker with automated CI/CD pipelines[cite: 1].
-* **Explainable AI (XAI) & Compliance:** Integrated SHAP and LIME for explainability and established real-time Data Drift monitoring to meet strict FHFA and Fair Lending standards[cite: 1].
+* **Portfolio Risk:** Programmed Airflow ETLs and LSTM/Transformer pipelines to forecast defaults and prepayment speeds on MBS portfolios[cite: 1].
+* **Document NLP:** Automated underwriting via BERT and LayoutLM microservices using custom PyTorch loss functions[cite: 1].
+* **35% Optimization:** Profiled distributed PyTorch training loops to minimize latency and tensor compute bottlenecks[cite: 1].
+* **SageMaker MLOps:** Containerized low-latency FastAPI services using INT8 Quantization and automated CI/CD pipelines[cite: 1].
+* **Compliance & XAI:** Integrated SHAP/LIME for model interpretability and built automated drift monitoring to meet strict FHFA and Fair Lending standards[cite: 1].
 </details>
 
 <details>
 <summary><b>The College Board — Java & AWS Developer</b> <i>(June 2017 - May 2018)</i></summary>
 <br>
 
-* **Data Migration:** Directed the large-scale Migration of customer marketing data from legacy Epsilon systems to Salesforce Marketing Cloud (SFMC) using Java and AWS[cite: 1].
-* **Data Engineering:** Developed and managed 15 automated data pipelines using AWS Glue and EMR to extract and move high volumes of data from Oracle databases to the SFMC cloud[cite: 1].
-* **Backend Services:** Built backend integration services using Java to link internal company databases with modern cloud platforms[cite: 1].
-* **Serverless Automation:** Simplified server management by using AWS Lambda and CloudFormation (CFT) to automate repetitive data tasks and reduce manual maintenance[cite: 1].
-* **Real-Time Quality:** Utilized AWS Athena to run fast queries on massive Dataframes stored in the cloud to monitor data Quality in real-time[cite: 1].
+* **Cloud Migration:** Co-directed migration of core enterprise customer records from legacy Epsilon architectures to SFMC using Java[cite: 1].
+* **Big Data Pipelines:** Built 15+ automated pipelines using AWS Glue, EMR clusters, and event-driven AWS Lambda functions[cite: 1].
+* **Serverless IaC:** Automated system provisioning using CloudFormation (CFT) and optimized S3 dataframes using real-time AWS Athena queries[cite: 1].
 </details>
 
 ---
 
-## 🎓 Academic Foundations & Core Training
+## 🎓 Education & Certifications
 
-### Education
-* **M.Sc. in Mathematics (Data and Resource Sciences)** — *Technische Universität Bergakademie Freiberg* (Oct 2023 - Present)[cite: 1]
-  * *Focus:* Software implementation of mathematical concepts (DGM, PINNs) for Partial Differential Equations using `Petsc4py`, `scikit-fem`, and `NeuralPDE.jl`[cite: 4].
-* **M.Sc. in Information System Management** — *Marist College, NY* (Aug 2015 - May 2017)[cite: 1]
-* **B.Tech. in Electronics and Communication Eng** — *SR Engineering College, India* (June 2011 - May 2015)[cite: 1]
-
-### Deep-Dive Hardware Certifications (GWDG Göttingen)
-* **📜 GPU Programming with CUDA** *(Issued: May 5, 2026)*
-  * *Hardware & Scheduling:* Mastery of GPU hardware, thread hierarchy, warp/thread scheduling, and memory types (global, shared, registers, constant)[cite: 3].
-  * *CUDA Environment:* Intensive training in NVIDIA's CUDA programming model, language elements (function qualifiers `__global__`/`__device__`, variable qualifiers, kernel configurations), and memory management (`cudaMalloc`, `cudaMemcpy`)[cite: 3].
-  * *Cluster Applications:* Building, compiling, and executing optimized CUDA programs on GWDG clusters for numerical integration and the multi-GPU diffusion equation[cite: 3].
-* **📜 Monitoring HPC Systems** *(Issued: May 13, 2026)*[cite: 2]
-  * *Stack Architecture:* Covered monitoring basics inside GWDG cluster networks using the **TIG Stack**, **ProfiT-HPC**, and **Grafana**[cite: 2].
+* **M.Sc. in Mathematics (Data & Resource Sciences)** — *TU Bergakademie Freiberg* (Oct 2023 - Present)[cite: 1]
+  * Core focus on software implementation of DGM and PINNs for Partial Differential Equations using `Petsc4py`, `scikit-fem`, and `NeuralPDE.jl`[cite: 4].
+* **M.Sc. in Information System Management** — *Marist College, NY*[cite: 1]
+* **B.Tech. in Electronics and Communication Engineering** — *SR Engineering College, India*[cite: 1]
+* **📜 Certified GPU Programming with CUDA** — *GWDG Göttingen* (May 2026)[cite: 3]
+  * Covers GPU hardware topologies, thread/warp scheduling, memory management (`cudaMalloc`/`cudaMemcpy`), function qualifiers (`__global__`/`__device__`), and multi-GPU numerical integration solvers[cite: 3].
+* **📜 Monitoring HPC Systems** — *GWDG Göttingen* (May 2026)[cite: 2]
+  * Covers telemetry collection and instrumentation using the TIG stack, ProfiT-HPC, and Grafana cluster dashboards[cite: 2].
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Abhijithsai451&show_icons=true&theme=radical" alt="Abhijith's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Abhijithsai451&layout=compact&theme=radical" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijithsai451&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijithsai451&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
-
-***

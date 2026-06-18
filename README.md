@@ -95,6 +95,5 @@ Dresden/Freiberg, DE 🇩🇪 | abhijithsai.wgd80@gmail.com | [LinkedIn](https:/
 ## 📊 Activity Metrics
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijithsai451&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Abhijithsai451&theme=radical&hide_border=true&show_icons=true&hide=stars,issues,contribs" alt="Clean Stats" width="48%" />
 </p>

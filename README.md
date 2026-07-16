@@ -91,9 +91,3 @@ Dresden/Freiberg, DE 🇩🇪 | abhijithsai.wgd80@gmail.com | [LinkedIn](https:/
   * Covers telemetry collection and instrumentation using the TIG stack, ProfiT-HPC, and Grafana cluster dashboards.
 
 ---
-
-## 📊 Activity Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijithsai451&theme=radical&hide_border=true&show_icons=true&hide=stars,issues,contribs" alt="Clean Stats" width="48%" />
-</p>

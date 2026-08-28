@@ -150,7 +150,7 @@ Dresden / Freiberg, Germany
 
 <td width="50%" valign="top">
 
-<h3>⚡ HPC & GPU Computing</h3>
+<h3> HPC & GPU Computing</h3>
 
 <ul>
 <li>CUDA C++</li>
@@ -182,7 +182,7 @@ Dresden / Freiberg, Germany
 
 ---
 
-#  Selected AI Engineering Work
+# AI Engineering Work
 
 ##  Enterprise Agentic AI Platform
 
